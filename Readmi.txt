@@ -1,0 +1,6 @@
+API Endpoints for Little Lemon Project:
+
+1. User Registration: POST http://127.0.0.1:8000/auth/users/
+2. Get Auth Token: POST http://127.0.0.1:8000/auth/token/login/
+3. Menu List: GET http://127.0.0.1:8000/api/menu/
+4. Book Table: POST http://127.0.0.1:8000/api/booking/
